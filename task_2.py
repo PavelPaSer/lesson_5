@@ -69,4 +69,3 @@ def player_vs_player():
         print(f'{vin} ПОБЕДИЛ')
 
 player_vs_player()
-
